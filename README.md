@@ -1,5 +1,9 @@
 # MyApp
 
+Run my app with : 
+
+https://harzulu65.github.io/angular_basic/
+
 Taken from youtube video:
 
 https://youtu.be/_TLhUCjY9iA
